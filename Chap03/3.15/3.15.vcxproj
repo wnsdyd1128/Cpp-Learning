@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{fa461a7c-921d-430a-8cd3-a1ac5ec2bd7e}</ProjectGuid>
-    <RootNamespace>My313</RootNamespace>
+    <ProjectGuid>{35673117-1ae6-4275-87cc-f51617863781}</ProjectGuid>
+    <RootNamespace>My315</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Exercise.cpp" />
+    <ClCompile Include="Making a Difference.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
